@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="pyt_q1">1.What is the maximum possible length of an identifier ?</string>
+    <string name="pyt_q1_o1">16</string>
+    <string name="pyt_q1_o2">32</string>
+    <string name="pyt_q1_o3">64</string>
+    <string name="pyt_q1_o4">None of these above</string>
+    <string name="pyt_q2">2.Who developed the Python Language ?</string>
+    <string name="pyt_q2_o1">Zim Den</string>
+    <string name="pyt_q2_o2">Guido Van Rossum</string>
+    <string name="pyt_q2_o3">Niene Stom</string>
+    <string name="pyt_q2_o4">Wick Van Rossum</string>
+    <string name="pyt_q3">3.In which year Python Language developed ?</string>
+    <string name="pyt_q3_o1">1995</string>
+    <string name="pyt_q3_o2">1972</string>
+    <string name="pyt_q3_o3">1981</string>
+    <string name="pyt_q3_o4">1989</string>
+    <string name="pyt_q4">4.In which language is Python written ?</string>
+    <string name="pyt_q5">5.Which one of the following is correct extension of Python file ?</string>
+    <string name="pyt_q5_o1">.py</string>
+    <string name="pyt_q5_o2">.python</string>
+    <string name="pyt_q5_o3">.p</string>
+    <string name="pyt_q5_o4">None of these</string>
+    <string name="pyt_q6">6.What do we use to define block of code in Python language?</string>
+    <string name="pyt_q7">7.Which character is used to make single line comment</string>
+    <string name="pyt_q7_o1">/</string>
+    <string name="pyt_q7_o2">//</string>
+    <string name="pyt_q7_o3">#</string>
+    <string name="pyt_q7_o4">!</string>
+    <string name="pyt_q8">8.What will be the output of round(4.576) ?</string>
+    <string name="pyt_q9">9.What is the method inside class?</string>
+    <string name="pyt_q9_o1">Object</string>
+    <string name="pyt_q9_o2">Function</string>
+    <string name="pyt_q9_o3">Attribute</string>
+    <string name="pyt_q9_o4">Argument</string>
+    <string name="pyt_q10">10.What will be the output of >>>"a"+"bc" ?</string>
+    <string name="pyt_q10_o1">a+bc</string>
+    <string name="pyt_q10_o2">abc</string>
+    <string name="pyt_q10_o3">a bc</string>
+    <string name="pyt_q10_o4">a</string>
+    <string name="kot_q1">1.Kotlin is developed by?</string>
+    <string name="kot_q1_o1">Google</string>
+    <string name="kot_q1_o2">JetBrains</string>
+    <string name="kot_q1_o3">Microsoft</string>
+    <string name="kot_q1_o4">Adobe</string>
+    <string name="kot_q2">2.The correct function to get length of the string in kotlin ??</string>
+    <string name="kot_q2_o1">str.length</string>
+    <string name="kot_q2_o2">string(length)</string>
+    <string name="kot_q2_o3">lengthof(str)</string>
+    <string name="kot_q2_o4">None of these</string>
+    <string name="kot_q3">3.Function to print a line in kotlin is ?</string>
+    <string name="kot_q3_o1">Printline()</string>
+    <string name="kot_q3_o2">println()</string>
+    <string name="kot_q3_o3">print()</string>
+    <string name="kot_q3_o4">option (b) and (c)</string>
+    <string name="kot_q4">4.Kotlin Language name came from the "Kotlin Island" of Russia? (True/False)</string>
+    <string name="kot_q5">5.In Kotlin,the default visibility modifier is ?</string>
+    <string name="kot_q5_o1">sealed</string>
+    <string name="kot_q5_o2">public</string>
+    <string name="kot_q5_o3">protected</string>
+    <string name="kot_q5_o4">private</string>
+    <string name="kot_q6">6.The default behaviour of classes in Kotlin is</string>
+    <string name="kot_q7">7.Functions in Kotlin can be divided into how many parts ??</string>
+    <string name="kot_q7_o1">5</string>
+    <string name="kot_q7_o2">4</string>
+    <string name="kot_q7_o3">3</string>
+    <string name="kot_q7_o4">2</string>
+    <string name="kot_q8">8.Does Kotlin allow macros ? (True/False)</string>
+    <string name="kot_q9">9.Which extension is used to save kotlin files ?</string>
+    <string name="kot_q9_o1">.kot</string>
+    <string name="kot_q9_o2">.android</string>
+    <string name="kot_q9_o3">.src</string>
+    <string name="kot_q9_o4">.kt or .kts</string>
+    <string name="kot_q10">10.How to do multiline comment in Kotlin language ?</string>
+    <string name="kot_q10_o1">//</string>
+    <string name="kot_q10_o2">\\</string>
+    <string name="kot_q10_o3">/* */</string>
+    <string name="kot_q10_o4">None of the above</string>
+    <string name="java_q1">1.The starting Point of every Java Program is</string>
+    <string name="java_q1_o1">the first line of code</string>
+    <string name="java_q1_o2">any method</string>
+    <string name="java_q1_o3">the main method</string>
+    <string name="java_q2">2.Which variable type would you use for city name?</string>
+    <string name="java_q2_o1">String</string>
+    <string name="java_q2_o2">int</string>
+    <string name="java_q2_o3">double</string>
+    <string name="java_q3">3.Which method prints a line of text to the screen ?</string>
+    <string name="java_q3_o1">printText()</string>
+    <string name="java_q3_o2">log()</string>
+    <string name="java_q3_o3">System.out.println()</string>
+    <string name="java_q4">4.Total constructor String class have ?</string>
+    <string name="java_q5">5.Automatic type conversion is possible in which of the possible cases?</string>
+    <string name="java_q5_o1">Byte to int</string>
+    <string name="java_q5_o2">Int to Long</string>
+    <string name="java_q5_o3">Long to int</string>
+    <string name="java_q5_o4">Short to int</string>
+    <string name="java_q6">6.Return type of method that does not return any value</string>
+    <string name="java_q7">7.Select the valid statement.</string>
+    <string name="java_q7_o1">char[] ch = new char(5)</string>
+    <string name="java_q7_o2">char[] ch = new char[5]</string>
+    <string name="java_q7_o3">char[] ch = new char()</string>
+    <string name="java_q7_o4">char[] ch = new char[]</string>
+    <string name="java_q8">8.Output of Math.floor(3.6) ?</string>
+    <string name="java_q9">9.When an array is passed to a method, what does the method receive?</string>
+    <string name="java_q9_o1">Reference of Array</string>
+    <string name="java_q9_o2">Copy of Array</string>
+    <string name="java_q9_o3">Length of Array</string>
+    <string name="java_q9_o4">Copy of first element</string>
+    <string name="java_q10">10.Select the valid statement to declare and initialize an array.</string>
+    <string name="java_q10_o1">int[] A = {}</string>
+    <string name="java_q10_o2">int[] A = {1, 2, 3}</string>
+    <string name="java_q10_o3">int[] A = (1, 2, 3)</string>
+    <string name="java_q10_o4">int[][] A = {1, 2, 3}</string>
+    <string name="python">Python</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="java">Java</string>
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none"
+    tools:context=".PlayActivity">
+
+    <TextView
+        android:id="@+id/choose"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose One Topic"
+        android:textColor="@color/color_card_7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="40dp"/>
+
+    <TextView
+        android:id="@+id/java"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="Java"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:background="@color/card_color_1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/choose"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:id="@+id/python"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="Python"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:background="@color/box_color_2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/java"
+        android:layout_marginTop="50dp"/>
+
+    <TextView
+        android:id="@+id/kotlin"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="Kotlin"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:background="@color/card_color_2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/python"
+        android:layout_marginTop="50dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
